@@ -1,0 +1,25 @@
+{
+  "name": "strophejs-plugin-rsm-vue",
+  "version": "0.0.1",
+  "description": "A strophe.js plugin for XEP-0059 Result Set Management",
+  "main": "lib/strophe.rsm.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adimuwardi/strophejs-plugin-rsm.git"
+  },
+  "keywords": [
+    "xmpp",
+    "strophe",
+    "vue-strophe.js",
+    "RSM"
+  ],
+  "author": "sezukahate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adimuwardi/strophejs-plugin-rsm/issues"
+  },
+  "homepage": "https://github.com/adimuwardi/strophejs-plugin-rsm#readme",
+  "peerDependencies": {
+    "vue-strophe.js": "^1.0.0"
+  }
+}
